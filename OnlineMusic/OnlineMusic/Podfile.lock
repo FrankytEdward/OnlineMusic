@@ -1,0 +1,18 @@
+PODS:
+  - NZCircularImageView (0.0.5):
+    - UIActivityIndicator-for-SDWebImage (~> 1.2)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - NZCircularImageView
+
+SPEC CHECKSUMS:
+  NZCircularImageView: cc64eae9a0dd42800b4902dc483b0b37591c3a3d
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+
+COCOAPODS: 0.39.0
